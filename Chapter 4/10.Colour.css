@@ -1,0 +1,9 @@
+body {
+    margin: 10px;
+}
+
+.box {
+    width: 600px;
+    height: 200px;
+    background: linear-gradient(32deg, rgba(155, 107, 231, 1) 0%, rgba(255, 107, 21, 1) 91%);
+}
