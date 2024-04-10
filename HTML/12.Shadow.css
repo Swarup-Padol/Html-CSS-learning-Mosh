@@ -1,0 +1,16 @@
+body {
+    margin: 10px;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    background: dodgerblue;
+    box-shadow: 5px 5px 30px rgb(139, 139, 139);
+}
+
+h2 {
+    color: white;
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}

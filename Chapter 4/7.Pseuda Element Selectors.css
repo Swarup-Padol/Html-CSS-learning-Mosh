@@ -1,0 +1,18 @@
+p::first-letter {
+    font-size: 140%;
+    font-weight: 600;
+    color: rgba(161, 160, 160, 0.502);
+}
+
+p::first-line {
+    font-weight: bold;
+}
+
+::selection {
+    background-color: rgb(206, 203, 203)
+}
+
+p::after {
+    content: " -Swarup Padol";
+    display: block;
+}
