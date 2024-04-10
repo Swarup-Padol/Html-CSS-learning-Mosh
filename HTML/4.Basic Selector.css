@@ -1,0 +1,7 @@
+body {
+    margin: auto;
+}
+
+a[target] {
+    color: red;
+}

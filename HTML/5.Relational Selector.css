@@ -1,0 +1,7 @@
+body {
+    margin: 10px;
+}
+
+#Product ~ p {
+    color: orange;
+}
